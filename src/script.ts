@@ -13,4 +13,4 @@ const typeTwo = (a : number, b : number) : number => {
     return a + b
 }
 
-console.log(typeTwo(70,20));
+console.log(typeTwo(90,20));

@@ -4,6 +4,7 @@
     "target": "ESNext",
     "strict": true,
     "skipLibCheck": true,
+    "rootDir": "./src",
     "outDir": "./dist"
   }
 }
