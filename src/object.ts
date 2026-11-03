@@ -22,6 +22,14 @@ type userDetails = {
     companyDetails : string[];
 }
 
+interface userDetailsTwo  {
+    name : string ;
+    age : number;
+    isJobHolder : boolean;
+    action : () => void;
+    companyDetails : string[];
+}
+
 const thisUser : userDetails = {
     name : "Mezba Morsalin",
     age : 24,
